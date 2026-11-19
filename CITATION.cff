@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Network-Centric Analysis of Team Dynamics"
+type: software
+authors:
+  - family-names: Sikri
+    given-names: Nitin
+    orcid: "https://orcid.org/0009-0009-4096-5062"
+license: MIT
+repository-code: "https://github.com/nitinsikri/team-network-dynamics"
+date-released: "2026-11-19"
+keywords:
+  - "network analysis"
+  - "sports analytics"
+  - "team dynamics"
+  - "adversarial regression"
+  - "clustering"
+preferred-citation:
+  type: conference-paper
+  title: "A Network-Centric Framework for Evaluating Team Dynamics: From Sports to Organizational Success"
+  authors:
+    - family-names: Sikri
+      given-names: Nitin
+      orcid: "https://orcid.org/0009-0009-4096-5062"
+  collection-title: "Proceedings of the 5th International Conference on Big Data and Artificial Intelligence Applications (ICBDAIA'26)"
+  publisher:
+    name: "Springer, Lecture Notes in Networks and Systems"
+  year: 2026
