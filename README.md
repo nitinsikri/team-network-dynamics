@@ -1,5 +1,7 @@
 # Network-Centric Analysis of Team Dynamics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24380915.svg)](https://doi.org/10.5281/zenodo.24380915)
+
 Reference implementation of the method described in:
 
 **Nitin Sikri.** *A Network-Centric Framework for Evaluating Team Dynamics: From Sports to Organizational Success.* Proceedings of the 5th International Conference on Big Data and Artificial Intelligence Applications (ICBDAIA'26), Springer, Lecture Notes in Networks and Systems, 2026. *(In press.)*
@@ -60,6 +62,8 @@ If you use this code, please cite the paper:
   year      = {2026}
 }
 ```
+
+To cite this software itself, use its Zenodo DOI: [10.5281/zenodo.24380915](https://doi.org/10.5281/zenodo.24380915).
 
 GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
 

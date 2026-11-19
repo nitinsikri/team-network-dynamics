@@ -7,6 +7,8 @@ authors:
     given-names: Nitin
     orcid: "https://orcid.org/0009-0009-4096-5062"
 license: MIT
+doi: "10.5281/zenodo.24380915"
+version: "1.0.0"
 repository-code: "https://github.com/nitinsikri/team-network-dynamics"
 date-released: "2026-11-19"
 keywords:
